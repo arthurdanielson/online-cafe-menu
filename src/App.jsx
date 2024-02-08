@@ -1,6 +1,7 @@
 import { useState } from "react"
 import Header from "./components/Header/Header.jsx"
 import MenuItem from "./components/MenuItem/MenuItem.jsx"
+import Footer from "./components/Footer/Footer.jsx"
 import { breakfasts, courses, drinks } from "../public/menu.js"
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
                     </div>
                 </section>
             </main>
+            <Footer />
         </>
     )
 }
