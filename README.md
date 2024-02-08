@@ -6,8 +6,7 @@ The "Online Cafe Menu" project is a web application developed in React.js that o
 
 To deploy, access the project link:
 
-[online-cafe-menu](https://online-cafe-menu.vercel.app/)
-
+https://online-cafe-menu.vercel.app/
 
 ## Installation
 
